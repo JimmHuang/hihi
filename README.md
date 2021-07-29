@@ -1,4 +1,2 @@
 abcdefghijk
-lmop
-qrstuvccccccccccccccccccccccccccccccccccccccccccccvvvvvvvvvv
-vvvvvvvvvvvvvvbvcbcvbcvbcvbbcvbcvb
+lm................bcvb
